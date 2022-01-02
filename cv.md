@@ -13,7 +13,7 @@
 ---
 
 ### About Me
-
+I have experience in no-code / low-code projects. Now I am looking for a position where I could be involved in projects in the area of frontend developer.
 
 ---
 
@@ -61,4 +61,5 @@ else return num2;
 
 ### English
 
+A2
 A2
