@@ -14,6 +14,7 @@
 ---
 
 ### About Me
+I have experience in no-code / low-code projects. Now I am looking for a position where I could be involved in projects in the area of frontend developer.
 
 ---
 
